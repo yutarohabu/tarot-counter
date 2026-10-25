@@ -79,6 +79,7 @@ function loadGroups(): CounterGroup {
       '8 正義',
       '13 死神',
       '20 審判',
+      '20 永劫',
     ]),
 
     2: createCounters([
