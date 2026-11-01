@@ -103,6 +103,7 @@ function loadGroups(): CounterGroup {
       '13 死神',
       '14 節制',
       '17 星',
+      '18 月',
       '信念',
     ]),
   }
