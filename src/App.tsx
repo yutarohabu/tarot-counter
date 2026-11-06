@@ -96,6 +96,7 @@ function loadGroups(): CounterGroup {
     3: createCounters([
       '0 愚者',
       '1 魔術師',
+      '3 女帝',
       '6 恋愛',
       '7 戦車',
       '8 正義',
@@ -148,6 +149,7 @@ function App() {
       3: [
         '0 愚者',
         '1 魔術師',
+        '3 女帝',
         '6 恋愛',
         '7 戦車',
         '8 正義',
